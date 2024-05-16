@@ -1,0 +1,143 @@
+[[libavif]]
+arch = "aarch64"
+git-tree-sha1 = "e92662e9e9c9485519f333e2a10546d699107dc6"
+os = "macos"
+
+    [[libavif.download]]
+    sha256 = "1718f96bb522044818008ee76ac0437fe696c62fd682176ebc08ef88bac0d78c"
+    url = "https://github.com/JuliaBinaryWrappers/libavif_jll.jl/releases/download/libavif-v1.0.4+0/libavif.v1.0.4.aarch64-apple-darwin.tar.gz"
+[[libavif]]
+arch = "aarch64"
+git-tree-sha1 = "624088fe7bc5ddd2bc9f2af663b11e54c6e8ac8f"
+libc = "glibc"
+os = "linux"
+
+    [[libavif.download]]
+    sha256 = "b57e569aa1ec5650e8f96cb0700bf24a18d55eb4cdbdcb8cc3924d09b6fc24d0"
+    url = "https://github.com/JuliaBinaryWrappers/libavif_jll.jl/releases/download/libavif-v1.0.4+0/libavif.v1.0.4.aarch64-linux-gnu.tar.gz"
+[[libavif]]
+arch = "aarch64"
+git-tree-sha1 = "61cad11b5e07883a3de4539a7dde3a65a61b0aa4"
+libc = "musl"
+os = "linux"
+
+    [[libavif.download]]
+    sha256 = "c70f3e7ab17082be9cc8c09dd708a6dd8361b685e95fa26c17d95870dcef1d60"
+    url = "https://github.com/JuliaBinaryWrappers/libavif_jll.jl/releases/download/libavif-v1.0.4+0/libavif.v1.0.4.aarch64-linux-musl.tar.gz"
+[[libavif]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4a03d8a02e7cbf5fc9ba588955ca44cd3a580ad4"
+libc = "glibc"
+os = "linux"
+
+    [[libavif.download]]
+    sha256 = "cc6070537a6632f4432ff45a5937de90d18180c8e40a812be6113f7337ac109f"
+    url = "https://github.com/JuliaBinaryWrappers/libavif_jll.jl/releases/download/libavif-v1.0.4+0/libavif.v1.0.4.armv6l-linux-gnueabihf.tar.gz"
+[[libavif]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "342963561463ef68a137511d408675935e2cf62c"
+libc = "musl"
+os = "linux"
+
+    [[libavif.download]]
+    sha256 = "0e44d8d1887ade3cc179e599109f4f2e08d8a2908c233c53c4b78c563ff34b74"
+    url = "https://github.com/JuliaBinaryWrappers/libavif_jll.jl/releases/download/libavif-v1.0.4+0/libavif.v1.0.4.armv6l-linux-musleabihf.tar.gz"
+[[libavif]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "74f751feb923b190186dde13866284bcf93f4a0a"
+libc = "glibc"
+os = "linux"
+
+    [[libavif.download]]
+    sha256 = "60f59ea6fa6993e65b82393d9830e864e4df9389c580360a98410e9c054c1cc8"
+    url = "https://github.com/JuliaBinaryWrappers/libavif_jll.jl/releases/download/libavif-v1.0.4+0/libavif.v1.0.4.armv7l-linux-gnueabihf.tar.gz"
+[[libavif]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "71ab8bdaf41f65432808113213cf8ade87de700f"
+libc = "musl"
+os = "linux"
+
+    [[libavif.download]]
+    sha256 = "796debe0bff8f25a18778b7c7f13353a6a6f0167b132d71910a3d6af7143d0a6"
+    url = "https://github.com/JuliaBinaryWrappers/libavif_jll.jl/releases/download/libavif-v1.0.4+0/libavif.v1.0.4.armv7l-linux-musleabihf.tar.gz"
+[[libavif]]
+arch = "i686"
+git-tree-sha1 = "4d60549c754cfdbb01500dba756d7ebd12881a05"
+libc = "glibc"
+os = "linux"
+
+    [[libavif.download]]
+    sha256 = "0d530562ad9d9365305971823947b7a189ea8c23e5b7c1bd120493c93e220c2d"
+    url = "https://github.com/JuliaBinaryWrappers/libavif_jll.jl/releases/download/libavif-v1.0.4+0/libavif.v1.0.4.i686-linux-gnu.tar.gz"
+[[libavif]]
+arch = "i686"
+git-tree-sha1 = "fd1a84595d50463bb341b590be502004d2c1bbfd"
+libc = "musl"
+os = "linux"
+
+    [[libavif.download]]
+    sha256 = "fff70a100614409cd81da0184cd6ecad57bcc0da871c27d04b15a13597143451"
+    url = "https://github.com/JuliaBinaryWrappers/libavif_jll.jl/releases/download/libavif-v1.0.4+0/libavif.v1.0.4.i686-linux-musl.tar.gz"
+[[libavif]]
+arch = "i686"
+git-tree-sha1 = "35e655a62d3a50ff931f56856487a8062d291cf0"
+os = "windows"
+
+    [[libavif.download]]
+    sha256 = "b2adf77a4813a5b890af73dbe1ffc885e6227b5ce4539a21cd24bb28e7b68176"
+    url = "https://github.com/JuliaBinaryWrappers/libavif_jll.jl/releases/download/libavif-v1.0.4+0/libavif.v1.0.4.i686-w64-mingw32.tar.gz"
+[[libavif]]
+arch = "powerpc64le"
+git-tree-sha1 = "90ca453f11ca12b8777116effc9fff132d1b5fa4"
+libc = "glibc"
+os = "linux"
+
+    [[libavif.download]]
+    sha256 = "234c71d72b2f87fd90a1d718e23a2c096130b7a644c1bccf8ea538635281c5af"
+    url = "https://github.com/JuliaBinaryWrappers/libavif_jll.jl/releases/download/libavif-v1.0.4+0/libavif.v1.0.4.powerpc64le-linux-gnu.tar.gz"
+[[libavif]]
+arch = "x86_64"
+git-tree-sha1 = "70fdd4a1bfd5306228f2bc264bb4201a3c6c2abd"
+os = "macos"
+
+    [[libavif.download]]
+    sha256 = "154d6ce7024c3da08ba64eae2db264792ec53f1a9fc75c0d6ee53608986f5923"
+    url = "https://github.com/JuliaBinaryWrappers/libavif_jll.jl/releases/download/libavif-v1.0.4+0/libavif.v1.0.4.x86_64-apple-darwin.tar.gz"
+[[libavif]]
+arch = "x86_64"
+git-tree-sha1 = "08e720a39f7016dc4333cd3b465f2eeabc41f657"
+libc = "glibc"
+os = "linux"
+
+    [[libavif.download]]
+    sha256 = "eb46157f2851cfaa185ea1bd9dc377ec502f4f6fb257e636f7e40281fb4f29a8"
+    url = "https://github.com/JuliaBinaryWrappers/libavif_jll.jl/releases/download/libavif-v1.0.4+0/libavif.v1.0.4.x86_64-linux-gnu.tar.gz"
+[[libavif]]
+arch = "x86_64"
+git-tree-sha1 = "631d6955589a66f8fd3fb06a9afffac800fac2de"
+libc = "musl"
+os = "linux"
+
+    [[libavif.download]]
+    sha256 = "6aff0f49e18ae12e9c50e6ceb1a5a55f58848460610219401447431f4f3f901a"
+    url = "https://github.com/JuliaBinaryWrappers/libavif_jll.jl/releases/download/libavif-v1.0.4+0/libavif.v1.0.4.x86_64-linux-musl.tar.gz"
+[[libavif]]
+arch = "x86_64"
+git-tree-sha1 = "2fecabb9124655960fb4698493b97a704c1996a6"
+os = "freebsd"
+
+    [[libavif.download]]
+    sha256 = "8564f819da04715fc15c48d884b58f7c02167c579d9be9f8669931c1b5283883"
+    url = "https://github.com/JuliaBinaryWrappers/libavif_jll.jl/releases/download/libavif-v1.0.4+0/libavif.v1.0.4.x86_64-unknown-freebsd.tar.gz"
+[[libavif]]
+arch = "x86_64"
+git-tree-sha1 = "724a1f145adc756974b5d6c0889309cdffb20ff8"
+os = "windows"
+
+    [[libavif.download]]
+    sha256 = "9c25178dbc06f7180f3f69f5474d87bea0cf8c7d78bfbbe16af740959ca11796"
+    url = "https://github.com/JuliaBinaryWrappers/libavif_jll.jl/releases/download/libavif-v1.0.4+0/libavif.v1.0.4.x86_64-w64-mingw32.tar.gz"
