@@ -14,7 +14,7 @@ function __init__()
     JLLWrappers.@generate_init_header(JpegTurbo_jll, XML2_jll, Zlib_jll, dav1d_jll, libaom_jll, libpng_jll, libyuv_jll)
     JLLWrappers.@init_library_product(
         libavif,
-        "lib/libavif.16.3.0.dylib",
+        "lib/libavif.16.4.1.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
